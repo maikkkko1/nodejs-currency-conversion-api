@@ -23,7 +23,7 @@ npm test
 
 The params are from-to currency and the amount to convert.
 
-Example below, converting from USD to BRL the amount of 25.00. (the value is based on the exchange rates from the day the request was made).
+Example below, converting from USD to BRL the amount of 25.00 (the value is based on the exchange rates from the day the request was made).
 
 ```
 GET /api/v1/conversion?from=usd&to=brl&amount=25.00
