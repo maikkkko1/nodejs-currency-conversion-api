@@ -1,4 +1,3 @@
-# currency-conversion-api
 ### Currency conversion API - Exchange rates are based on current foreign exchange rates published by the European Central Bank.
 
 #### What has been used:
@@ -22,7 +21,7 @@ npm test
 
 ###### The exchange rates are based on information that the European Central Bank provides everyday.
 
-The params are, from-to currency and the amount to convert.
+The params are from-to currency and the amount to convert.
 
 Example below, converting from USD to BRL the amount of 25.00. (the value is based on the exchange rates from the day the request was made).
 
